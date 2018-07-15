@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np 
 import scipy.sparse as sp 
 
+# change data directory
 ROOT = './BX-CSV-Dump/{}'
 
 def get_ratings_data():
