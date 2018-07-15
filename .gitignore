@@ -2,3 +2,4 @@
 __pycache__
 .vscode
 recommender_system_challenge/BX-CSV-Dump
+predicting_stock_prices/*.csv

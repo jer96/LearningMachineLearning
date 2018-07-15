@@ -1,0 +1,3 @@
+# predicting_stock_prices challenge
+
+This is part 4 of [Learning Python For Data Science Tutorial](https://youtu.be/MrBzgvUNr4w) by Siraj Raval. Here I have retrieved tweets for a given company (Google) using tweepy, determined the overall sentiment of the tweets which then is used to determine whether or not a Keras model is trained to predict the stock price of the company. Historic stock data was retrieved from Yahoo Finance.
