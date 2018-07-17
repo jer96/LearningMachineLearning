@@ -29,4 +29,4 @@ Completed [Recommendation system](https://youtu.be/9gBC9R-msAk) challenge additi
 Completed [Stock Price Prediction](https://youtu.be/SSu00IRRraY) challenge additional documentation can be found [here](https://github.com/jer96/LearningMachineLearning/tree/master/predicting_stock_prices). Setup virtual python environments for Keras with a TensorFlow backend.
 
 **Day 10** 
-Began Siraj Raval's [The Math of Intelligence](https://youtu.be/xRJCOz3AfYY) playlist. Implemented Gradient Descent for Pokemon dataset from Kaggle. Predicted HP based on Attack score. Additional documentation can be found [here](https://github.com/jer96/LearningMachineLearning/tree/master/math_of_intelligence/intro/intro.ipynb)
+Began Siraj Raval's [The Math of Intelligence](https://youtu.be/xRJCOz3AfYY) playlist. Implemented Gradient Descent for [Pokemon dataset](https://www.kaggle.com/abcsds/pokemon) from Kaggle. Predicted HP based on Attack score. Notebook can be found [here](https://github.com/jer96/LearningMachineLearning/tree/master/math_of_intelligence/intro/intro.ipynb)
