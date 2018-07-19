@@ -31,3 +31,7 @@ Completed [Stock Price Prediction](https://youtu.be/SSu00IRRraY) challenge addit
 **Day 10** 
 
 Began Siraj Raval's [The Math of Intelligence](https://youtu.be/xRJCOz3AfYY) playlist. Implemented Gradient Descent for [Pokemon dataset](https://www.kaggle.com/abcsds/pokemon) from Kaggle. Predicted HP based on Attack score. Notebook can be found [here](https://github.com/jer96/LearningMachineLearning/tree/master/math_of_intelligence/intro/intro.ipynb)
+
+**Day 11** 
+
+Completed [SVM](https://www.youtube.com/watch?v=g8D5YL6cOSE&index=2&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) video then implemented SVM from scratch. 
