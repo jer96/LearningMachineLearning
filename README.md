@@ -3,9 +3,6 @@
 ## Introduction
 This repository is dedicated to documenting my journey for learning Data Science and Machine Learning using various online resources. 
 
-## Overview
-Currently, I am participating in the #100DaysOfMLCode challenge hosted by [Siraj Raval](youtube.com/c/SirajRaval) wherein everyday I spend a certain amount of time dedicated to working on machine learning in the form of online courses, projects or research. 
-
 ## Progress
 **Days 1-5**
 
